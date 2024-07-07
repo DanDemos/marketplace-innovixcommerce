@@ -30,7 +30,7 @@ const MouseCursor: React.FC = () => {
     setBigCursor(false);
   };
 
-
+  
   return (
     <>
       {cursorPosition && (
